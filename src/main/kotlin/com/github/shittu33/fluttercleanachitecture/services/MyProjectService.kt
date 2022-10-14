@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.shittu33.fluttercleanachitecture.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.shittu33.fluttercleanachitecture.MyBundle
 
 class MyProjectService(project: Project) {
 
